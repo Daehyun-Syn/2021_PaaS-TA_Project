@@ -25,11 +25,10 @@ public class MailService implements IMailService{
 	private Logger log = Logger.getLogger(this.getClass());
 	
 	
-	// 해야할 일 : 경로설정 및 로그인 완료창 표시
+	
 	@Resource(name="MailMapper")
 	private IMailMapper MailMapper;
-	//shindaepal@gmail.com
-	//thddbfk!2
+
 	
 	final String host = "smtp.gmail.com";
 	final String user = "gmail아이디@gmail.com";
