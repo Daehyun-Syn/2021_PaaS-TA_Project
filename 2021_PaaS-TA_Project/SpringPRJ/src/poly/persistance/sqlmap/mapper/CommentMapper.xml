@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- JAVA와 연결할 Mapper 파일 설정 -->
+<mapper namespace="poly.persistance.mapper.ICommentMapper">
+
+<!-- 댓글 등록 -->
+		<insert id = "CommentWrite" parameterType="CommentDTO"> 
+		INSERT INTO COMMENT(
+			COMMENT_CONTENTS,
+			COMMENT_ID,
+			BOARD_SEQ
+		) values(
+			#{comment_contents},
+			#{comment_id},
+			#{board_seq}
+		)
+	</insert>
+	
+<!-- 댓글 보기 -->
+	<select id = "getCommentList" parameterType="CommentDTO" resultType="CommentDTO">
+	SELECT 
+		COMMENT_CONTENTS, COMMENT_ID, COMMENT_RDT, COMMENT_SEQ 
+	FROM 
+		COMMENT
+		
+		WHERE BOARD_SEQ = #{board_seq}
+	
+	</select>
+
+<!-- 댓글 삭제 -->
+	<delete id="deleteComment" parameterType="CommentDTO">
+	DELETE FROM
+		COMMENT
+	WHERE
+		COMMENT_SEQ =#{comment_seq}
+	</delete>
+
+</mapper>
