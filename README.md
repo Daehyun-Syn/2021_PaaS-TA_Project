@@ -1,11 +1,11 @@
 ## <img width=20px src=https://user-images.githubusercontent.com/42789819/115147514-42221300-a096-11eb-9526-a68b8094f79c.png>  Project
 **식품 알레르기 환자를 위한 식품 알레르기 예방 서비스, AllForYou**
-![image](https://user-images.githubusercontent.com/80372103/182635725-9090dd10-c045-4c55-a973-b66f3b20fff3.png)
+[![Video Label]([http://img.youtube.com/vi/'유튜브주소의id'/0.jpg](https://user-images.githubusercontent.com/80372103/182635725-9090dd10-c045-4c55-a973-b66f3b20fff3.png))](https://youtu.be/2ZYm7xR_0vU)
 
 > **🏆  2021 파스-타 기반 서비스 개발 및 아이디어 공모전 특별상 | 한국클라우드컴퓨팅연구조합 이사장상**
 > 
 > **프로젝트 기간: 2021.07.20 ~ 2021.11.30**  
->[![Video Label](http://img.youtube.com/vi/2ZYm7xR_0vU/0.jpg)]
+
 ## 목차
 [1.프로젝트 설명](#프로젝트-설명)
 * 제안 배경
