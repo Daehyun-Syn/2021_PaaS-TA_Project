@@ -39,6 +39,9 @@
 * 기술 스택
 ![image](https://user-images.githubusercontent.com/80372103/182652464-191e329f-23a2-4039-a37c-61af14fa8b1a.png)
 
+* 아키텍쳐
+![image](https://user-images.githubusercontent.com/80372103/182652635-4326fe7d-d7d5-4923-81b9-afa85407799f.png)
+
 ### | 기대 효과
 ![image](https://user-images.githubusercontent.com/80372103/182651461-4ca42440-61e0-46b7-aa0a-231896310be8.png)
 ## 사용 기술
