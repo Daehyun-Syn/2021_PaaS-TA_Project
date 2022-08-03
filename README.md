@@ -42,8 +42,19 @@
 * 아키텍쳐
 ![image](https://user-images.githubusercontent.com/80372103/182652635-4326fe7d-d7d5-4923-81b9-afa85407799f.png)
 
+### | 주요 기능
+* 알레르기 검색
+![image](https://user-images.githubusercontent.com/80372103/182652996-8e1f3165-0302-432e-9d18-b72a655ba960.png)
+
+* 사용 함수
+![image](https://user-images.githubusercontent.com/80372103/182653070-577d0ba4-865b-48af-8367-51fdd20415e6.png)
+
+* 사용 알고리즘 
+![image](https://user-images.githubusercontent.com/80372103/182653129-106668a8-0c2f-47ee-8a93-50d97eb82e67.png)
+
 ### | 기대 효과
 ![image](https://user-images.githubusercontent.com/80372103/182651461-4ca42440-61e0-46b7-aa0a-231896310be8.png)
+
 ## 사용 기술
 ### | Language 
 * Java 
