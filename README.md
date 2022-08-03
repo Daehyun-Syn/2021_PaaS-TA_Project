@@ -5,7 +5,7 @@
 >
 > [![PaaS-TA AllForYou](https://user-images.githubusercontent.com/80372103/182643099-8a3a6f2b-44f7-4ab6-a358-897e706e6987.png)](https://youtu.be/2ZYm7xR_0vU)
 >
-> **팀장: 신대현 | 팀원: 김학겸 오주현 이진아
+> **프로젝트 기간: 신대현 | 팀원: 김학겸 오주현 이진아
 > 
 > **프로젝트 기간: 2021.07.20 ~ 2021.11.30**  
 
