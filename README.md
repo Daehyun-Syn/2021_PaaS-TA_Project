@@ -55,26 +55,30 @@
 ### | 기대 효과
 ![image](https://user-images.githubusercontent.com/80372103/182651461-4ca42440-61e0-46b7-aa0a-231896310be8.png)
 
-## 사용 기술
+## 적용 기술
 ### | Language 
 * Java 
-* Python 
-* Html5
-* Css3
 * JavaScript
+* Html5
+* CSS 
+* Python
+* Jquery
 ### | Data Base
 * MySQL 
 ### | Framework
 * Spring Framework 
+* Flask
 ### | Tool
 * Eclipse
-* Pycharm
+* PyCharm
 * Git Hub
 * Git Bash
 * MySQL Workbench
 ### | Server
-* Tomcat 
-* AWS
+* AWS EC2
+* NHN Pass-TA
+### | Storage
+* AWS S3
 ## 디렉터리 정보
 ### | 2021_PaaS-TA_Project
 * Spring Framework Project 디렉터리
