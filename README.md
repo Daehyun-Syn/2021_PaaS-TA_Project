@@ -36,6 +36,9 @@
 ![image](https://user-images.githubusercontent.com/80372103/182652268-eed500d4-1423-4f74-8519-d7924fc2c4db.png)
 
 ### | SW 소개
+* 기술 스택
+![image](https://user-images.githubusercontent.com/80372103/182652464-191e329f-23a2-4039-a37c-61af14fa8b1a.png)
+
 ### | 기대 효과
 ![image](https://user-images.githubusercontent.com/80372103/182651461-4ca42440-61e0-46b7-aa0a-231896310be8.png)
 ## 사용 기술
