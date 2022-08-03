@@ -22,6 +22,7 @@
 *  Framework
 *  Tool
 *  Server
+*  Storage
   
 [3.디렉터리 정보](#디렉터리-정보)
 * 2021_PaaS-TA_Project
