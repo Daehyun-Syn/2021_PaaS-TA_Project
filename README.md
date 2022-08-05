@@ -2,6 +2,7 @@
 **식품 알레르기 환자를 위한 식품 알레르기 예방 서비스, AllForYou**<br>
 
 > **🏆  2021 파스-타 기반 서비스 개발 및 아이디어 공모전 특별상 | 한국클라우드컴퓨팅연구조합 이사장상**
+> **(아래 이미지를 클릭하면 유튜브 📼영상으로 이동됩니다)**
 >
 > [![PaaS-TA AllForYou](https://user-images.githubusercontent.com/80372103/182643099-8a3a6f2b-44f7-4ab6-a358-897e706e6987.png)](https://youtu.be/2ZYm7xR_0vU)
 >
