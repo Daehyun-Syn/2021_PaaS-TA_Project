@@ -79,10 +79,10 @@
 * Git Bash
 * MySQL Workbench
 ### | Server
-* AWS EC2
-* NHN Pass-TA
+* Amazon EC2
+* NHN PaaS-TA
 ### | Storage
-* AWS S3
+* Amazon S3
 ## 디렉터리 정보
 ### | 2021_PaaS-TA_Project
 * Spring Framework Project 디렉터리
